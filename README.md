@@ -1,3 +1,5 @@
+# Presonal Menu for ESX developed by Korioz using NativeUI - https://github.com/Korioz/krz_personalmenu
+
 # Legal
 ### License
 
